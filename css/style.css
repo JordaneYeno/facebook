@@ -79,6 +79,7 @@ header {
   padding-left: 32px;
   border-radius: 50px;
   font-size: 13px;
+  background-color: #3a3b3c;
 }
 .nav__menu{
   flex-basis: 28%;
